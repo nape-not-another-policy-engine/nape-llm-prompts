@@ -53,13 +53,13 @@ The evidence file is in the format of a standard [some file format] file, see th
 
 The Python function you are going to write will look to assess the following:
 
-- [Add here with a list for the things you want to assess]
+[//]: # (- Add here with a list for the things you want to assess])
 
 ## Requirements To Pass
 
 The condition to pass is as follows:
 
-- [ add the criteria here for a pass, and include how what the reason should be ]
+[//]: # (-  add the criteria here for a pass, and include how what the reason should be)
 
 ## The Sample Evidence File
 
